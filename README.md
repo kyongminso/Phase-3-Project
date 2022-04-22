@@ -111,3 +111,8 @@ So, for the next steps, I would look at correlation between the broken wells and
 ├── Recommendations
 └── Next Steps
 ```
+
+
+### Project Slides Link
+
+To see more of this research, please view the [presentation](https://docs.google.com/presentation/d/1-SM9PNONI-hebPa0O_9tzlzt9HCBxWo3BHpIroQOuus/edit#slide=id.g1255df7d8c1_0_23) for more information. 
